@@ -23,6 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                填写个人信息:<br>  
        <textarea name="info" row="5"cols="30"></textarea><br>  
        <input type="reset"value="重置"><input type="submit"value="注册">  
+     
    </form>  
   </body>  
 </html>  

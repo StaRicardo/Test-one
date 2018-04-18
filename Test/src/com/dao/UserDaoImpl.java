@@ -36,7 +36,7 @@ public class UserDaoImpl implements UserDao{
         } catch (SQLException e) {  
             e.printStackTrace();  
         }  
-        //if(flag) System.out.println("ok");
+        //sadif(flag) System.out.println("ok");
         //else System.out.println("no");
         return flag;  
     }  
