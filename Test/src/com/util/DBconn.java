@@ -18,6 +18,11 @@ public class DBconn {
 			e.printStackTrace();
 		}
 	}
+	public static void why()
+	{
+		
+	}
+	//why can't fetch
 	public static int addUpdDel(String sql){
 		int i = 0;
 		try {
